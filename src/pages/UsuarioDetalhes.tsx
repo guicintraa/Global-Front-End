@@ -33,7 +33,7 @@ function UsuarioDetalhes() {
       );
       setHistorico(data);
     } catch {
-      // sem histórico ainda
+     
     }
   }
 
@@ -44,7 +44,7 @@ function UsuarioDetalhes() {
       );
       setCluster(data);
     } catch {
-      // usuário pode não ter cluster ainda
+      
     }
   }
 
