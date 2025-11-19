@@ -10,6 +10,10 @@ LINK GIT HUB
 
 https://github.com/guicintraa/Global-Front-End
 
+LINK VIDEO 
+
+
+
 LINK RENDER API
 
 https://teste-3xjm.onrender.com
