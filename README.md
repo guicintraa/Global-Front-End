@@ -2,6 +2,14 @@
 **Global Solution – FIAP**  
 **Front-end + Back-end + Banco de Dados**
 
+LINK VERCEL PROJETO 
+
+global-front-end-zeta.vercel.app
+
+LINK RENDER API
+
+https://teste-3xjm.onrender.com
+
 ---
 
 ##   INTEGRANTES
