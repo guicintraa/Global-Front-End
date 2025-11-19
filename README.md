@@ -1,3 +1,89 @@
+# 🌐 FutureSkills – Plataforma de Recomendação de Carreiras Tech  
+**Global Solution – FIAP**  
+**Front-end + Back-end + Banco de Dados**
+
+---
+
+##   INTEGRANTES
+
+Guilherme Batista Cintra RM 562850
+Davi Tagawa Schincaglia Lima Lemos RM 563457
+Caio Felipe Silva RM 564615
+
+## 📌 1. Título e Descrição
+O **FutureSkills** é uma plataforma desenvolvida para ajudar estudantes a descobrir qual carreira de tecnologia combina mais com seu perfil.  
+O sistema integra **Front-end (React + Vite + TypeScript)**, **API Java (Quarkus)** e **Banco Oracle**, oferecendo uma solução completa de ponta a ponta.
+
+---
+
+## 📌 2. Status do Projeto
+- ✔️ Banco de Dados finalizado  
+- ✔️ API Java hospedada e funcionando (Render)  
+- ✔️ Front-end integrado  
+- ✔️ Consumo real da API  
+
+---
+
+## 📌 4. Sobre o Projeto
+O FutureSkills utiliza Inteligência Artificial (treinada em Python), banco relacional Oracle e uma API Java oficial para armazenar e exibir:
+
+- Dados dos usuários
+- Recomendação de carreira (com base no perfil)
+- Cluster pertencente (agrupamento por similaridade)
+- Histórico de recomendações
+
+O front-end permite **cadastrar usuários**, **listar usuários**, **consultar detalhes**, e está totalmente conectado à API remota.
+
+---
+
+## 📌 5. Tecnologias Utilizadas
+
+### **Front-end**
+- React
+- Vite
+- TypeScript
+- React Router DOM
+- Axios
+- TailwindCSS v4
+
+### **Back-end (API Java)**
+- Quarkus
+- JAX-RS
+- Oracle JDBC
+- Maven
+- Render (deploy)
+
+### **Banco de Dados**
+- Oracle 19c  
+- Sequences  
+- Triggers  
+- CRUD completo  
+- Scripts: `CRIA.sql`, `CARGA.sql`, `APAGA.sql`, `CONSULTAS.sql`
+
+---
+
+## 📌 6. Instalação
+
+### 🔧 **Front-end**
+```bash
+npm install
+npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
